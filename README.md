@@ -12,6 +12,6 @@ Data Preparation and Data Mining
   
 Final score = Score * %attendance
 
-((ทำ temple of content แล้วกดเข้าไปได้))
+#MIDTERM
+(https://github.com/Jindapornphopomee/BSC_DPDM23/blob/main/MIDTERM.ipynb)
 
-#
